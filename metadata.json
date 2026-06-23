@@ -1,0 +1,8 @@
+{
+  "name": "REME - AI Productivity Hub",
+  "description": "An AI-powered glassmorphism productivity dashboard featuring Smart reminders, Pomodoro, Study Planner, Health Tracking, and more.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
